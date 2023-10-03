@@ -1,1 +1,1 @@
-# spamclassification
+First, we'll filter out all the spam messages from our dataset. df_spam is a DataFrame that contains only spam messages. Next, we'll convert our DataFrame to a list, where every element of that list will be a spam message. Then, we'll join each element of our list into one big string of spam messages.
